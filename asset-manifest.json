@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GaRan/static/css/main.6707304e.chunk.css",
+    "main.js": "/GaRan/static/js/main.f8e5b9f8.chunk.js",
+    "main.js.map": "/GaRan/static/js/main.f8e5b9f8.chunk.js.map",
+    "runtime-main.js": "/GaRan/static/js/runtime-main.2eab769d.js",
+    "runtime-main.js.map": "/GaRan/static/js/runtime-main.2eab769d.js.map",
+    "static/js/2.b29588d5.chunk.js": "/GaRan/static/js/2.b29588d5.chunk.js",
+    "static/js/2.b29588d5.chunk.js.map": "/GaRan/static/js/2.b29588d5.chunk.js.map",
+    "static/js/3.8142e3bf.chunk.js": "/GaRan/static/js/3.8142e3bf.chunk.js",
+    "static/js/3.8142e3bf.chunk.js.map": "/GaRan/static/js/3.8142e3bf.chunk.js.map",
+    "index.html": "/GaRan/index.html",
+    "static/css/main.6707304e.chunk.css.map": "/GaRan/static/css/main.6707304e.chunk.css.map",
+    "static/js/2.b29588d5.chunk.js.LICENSE.txt": "/GaRan/static/js/2.b29588d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2eab769d.js",
+    "static/js/2.b29588d5.chunk.js",
+    "static/css/main.6707304e.chunk.css",
+    "static/js/main.f8e5b9f8.chunk.js"
+  ]
+}
